@@ -1,0 +1,10 @@
+C:\Users\terehov\source\repos\Cross\Cross\bin\Debug\Cross.exe.config
+C:\Users\terehov\source\repos\Cross\Cross\bin\Debug\Cross.exe
+C:\Users\terehov\source\repos\Cross\Cross\bin\Debug\Cross.pdb
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.csprojAssemblyReference.cache
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.Form1.resources
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.Properties.Resources.resources
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.csproj.GenerateResource.cache
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.csproj.CoreCompileInputs.cache
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.exe
+C:\Users\terehov\source\repos\Cross\Cross\obj\Debug\Cross.pdb
